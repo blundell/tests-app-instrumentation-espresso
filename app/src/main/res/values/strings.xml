@@ -4,5 +4,6 @@
     <string name="app_name">TestsApplication</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+  <string name="my_button_text">Click Me!</string>
 
 </resources>
